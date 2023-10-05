@@ -11,7 +11,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.eldmandate.todoapp"
+        applicationId "com.example.todoapp"
         minSdk 26
         targetSdk 33
         versionCode 1

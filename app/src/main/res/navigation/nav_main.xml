@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/firstSceneFragment"
-        android:name="com.eldmandate.todoapp.ui.first_scene.FirstSceneFragment"
+        android:name="com.example.todoapp.ui.first_scene.FirstSceneFragment"
         android:label="FirstSceneFragment" >
         <action
             android:id="@+id/action_firstSceneFragment_to_secondSceneFragment"
@@ -14,11 +14,11 @@
     </fragment>
     <fragment
         android:id="@+id/secondSceneFragment"
-        android:name="com.eldmandate.todoapp.ui.second_scene.SecondSceneFragment"
+        android:name="com.example.todoapp.ui.second_scene.SecondSceneFragment"
         android:label="SecondSceneFragment" >
         <argument
             android:name="user"
-            app:argType="com.eldmandate.todoapp.model.User"
+            app:argType="com.example.todoapp.model.User"
             app:nullable="true"
             />
     </fragment>

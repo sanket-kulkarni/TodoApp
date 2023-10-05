@@ -4,7 +4,7 @@
     <data>
     <variable
         name="model"
-        type="com.eldmandate.todoapp.model.ResponseItem" />
+        type="com.example.todoapp.model.ResponseItem" />
     </data>
 
 <androidx.cardview.widget.CardView
